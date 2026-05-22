@@ -44,12 +44,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://i.postimg.cc/VNGvLf2D/Moon-Knig
 HELP_TXT = "<b>ᴛʜɪꜱ ɪꜱ ᴛʜᴇ ᴏᴜʀ ʜᴇʟᴘ ᴀɴᴅ ʀᴇᴘᴏʀᴛ ʙᴏᴛ <a href='https://t.me/Fedbk_rep_bot'>@Fedbk_rep_bot</a></b>\n\n<blockquote>“sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʟɪɴᴋ, sᴛᴀʀᴛ ᴛʜᴇ ʜᴇʟᴘ ʙᴏᴛ, ᴀɴᴅ ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ᴍᴇꜱꜱᴀɢᴇ ᴜꜱ...!”</blockquote>"
 ABOUT_TXT = "<b><blockquote>◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href='https://t.me/Name_huh'>𝐍𝐀𝐌𝐄_𝐇𝐔𝐇!</a>\n◈ ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href='https://t.me/movie_talk_Group'>𝐌𝐨𝐯𝐢𝐞 𝐓𝐚𝐥𝐤 ֶָ֢ [𝐆𝐫𝐨𝐮𝐩]</a>\n◈ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/+X5RPKIsoDgtlZGFl'>𝐌𝐎𝐕𝐈𝐄 𝐓𝐀𝐋𝐊 ֶָ֢ 𓃮</a>\n◈ ʙᴀᴄᴋᴜᴘ: <a href='https://t.me/movie_talk_backup'>MOVIE TALK ֶָ֢ [BACKUP]</a>\n◈ ᴍᴏᴅᴇʀᴀᴛᴏʀ: <a href='https://t.me/lucifer_movie_talk'>𝐌𝐎𝐃𝐄𝐑𝐀𝐓𝐎𝐑 ֶָ֢ ⚡</a></blockquote></b>"
 #--------------------------------------------
-START_MSG = os.environ.get("START_MESSAGE", "<b>Hey {first} ✨</b>
-
-<b>I am Hosper X — Your Personal File Delivery Assistant ⚡
-
-Share files instantly  
-No delay, just speed 🚀</b>")
+START_MSG = os.environ.get("START_MESSAGE", "<blockquote>ʜᴇʏ {first} ✨</blockquote>\n\n<b>ɪ ᴀᴍ ʜᴏꜱᴘᴇʀ x — ʏᴏᴜʀ ᴘᴇʀꜱᴏɴᴀʟ ғɪʟᴇ ᴅᴇʟɪᴠᴇʀʏ ᴀꜱꜱɪꜱᴛᴀɴᴛ ⚡\nꜱʜᴀʀᴇ ꜰɪʟᴇꜱ ɪɴꜱᴛᴀɴᴛʟʏ\nɴᴏ ᴅᴇʟᴀʏ, ᴊᴜꜱᴛ ꜱᴘᴇᴇᴅ 🚀</b>")
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "<blockquote>ʜᴇʟʟᴏ {first} ✨</blockquote>\n\n<b>ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟꜱ ᴀɴᴅ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ♻️ ᴛʀʏ ᴀɢᴀɪɴ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ 📥 ʀᴇǫᴜᴇꜱᴛᴇᴅ ꜰɪʟᴇ.</b>")
 
 CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockquote>
